@@ -9,6 +9,7 @@ public class CodeTest {
 		System.out.println("Inside branch Dev to edit");
 		System.out.println("Again inside master branch");
 		System.out.println("test in dev branch");
+		System.out.println("Latest change in DEV branch");
 	}
 
 }
