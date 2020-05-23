@@ -7,6 +7,7 @@ public class CodeTest {
 		System.out.println("Hello World");
 		System.out.println("Hello Life, how are you?");
 		System.out.println("Inside branch Dev");
+		System.out.println("Again inside master branch");
 
 	}
 
