@@ -8,7 +8,6 @@ public class CodeTest {
 		System.out.println("Hello Life, how are you?");
 		System.out.println("Inside branch Dev to edit");
 		System.out.println("Again inside master branch");
-
 	}
 
 }
